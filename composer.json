@@ -1,6 +1,7 @@
 {
     "name": "sohoa/sohoa",
     "require": {
+		"hoa/xyl": "dev-master",
         "sohoa/framework": "dev-master"
     },
     "minimum-stability": "dev"

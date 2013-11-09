@@ -7,8 +7,7 @@ namespace Application\Controller {
     class Main extends Kit {
 
         public function indexAction() {
-			
-			echo 'Bouya';
+			$this->xyl->render();
         }
     }
 }

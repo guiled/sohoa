@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<document xmlns="http://hoa-project.net/xyl/xylophone">
+<title>Main</title>
+<div id="content">
+	Main layout
+</div>
+</document>
