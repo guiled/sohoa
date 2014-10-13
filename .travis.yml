@@ -10,7 +10,6 @@ before_install:
   - composer self-update
   - cd Public && php -S localhost:80&
   - git clone git://github.com/n1k0/casperjs.git ~/casperjs
-  - sudo /etc/init.d/apache2 restart
   - cd ~/casperjs
   - export PATH=$PATH:`pwd`/bin
   - cd -
